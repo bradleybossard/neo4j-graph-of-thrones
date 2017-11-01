@@ -1,0 +1,11 @@
+Name,Father,Mother,House,Spouse
+Rickard ,,,Stark,Lyarra
+Brandon ,Rickard ,Lyarra,Stark,Catelyn
+Eddard ,Rickard ,Lyarra,Stark,Catelyn
+Lyanna,Rickard ,Lyarra,Stark,Rhaegear
+Robb,Eddard,Catelyn,Stark,Talisa
+Sansa,Eddard,Catelyn,Stark,Tyrion
+Rickon,Eddard,Catelyn,Stark,
+Brandon2 ,Eddard,Catelyn,Stark,
+Arya,Eddard,Catelyn,Stark,
+John ,Rhaegear,Lyanna,Targaryen,
